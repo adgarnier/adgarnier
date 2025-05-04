@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andy Garnier
+# Hello, I'm Andy Garnier
 
 **Biochemist • Computational Biologist**
 
@@ -15,14 +15,9 @@ Welcome to my GitHub! I'm a Montreal-based scientist with a passion for combinin
 
 ---
 
-## 🧰 Tools & Skills
+## 🌐 Website
 
-- **Languages**: English (Native), French (Professional)
-- **Computational**: Languages (Python, Bash, R, HTML, CSS, JavaScript), OS (Windows, UNIX), Databases (SQL, NoSQL, XML),
-WebDocker, GitHub, High Performance Computing, Molecular Modeling (PyMOL, VMD, ChimeraX), Virtual
-Screening (AlphaFold, AutoDock Vina, VirtualFlow), Molecular Dynamics Simulations (GROMACS)
-- **Laboratory**: ELISA, Immunoblot, Protein Purification, Molecular Cloning, Immunofluoresence Microscopy, Cell Culture,
-Lentiviral Transduction
+Visit my portfolio site: [https://adgarnier.github.io](https://adgarnier.github.io)
 
 ---
 
@@ -38,19 +33,6 @@ Check out my collection of **Pygame-based games**, packaged for the web using [P
 | **Space** | Orbital survival game with gravitational physics |
 | **Color Match** | Identify the correct shade from a grid of subtle color variations |
 ...and more.
-
----
-
-## 🌐 Website
-
-Visit my portfolio site: [https://adgarnier.github.io](https://adgarnier.github.io)
-
----
-
-## 📬 Get in Touch
-
-- 📧 [andygarnier@hotmail.com](mailto:andygarnier@hotmail.com)  
-- 🧾 [LinkedIn](https://www.linkedin.com/in/andygarnier)  
 
 ---
 
