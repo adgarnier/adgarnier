@@ -33,7 +33,3 @@ Check out my collection of **Pygame-based games**, packaged for the web using [P
 | **Space** | Orbital survival game with gravitational physics |
 | **Color Match** | Identify the correct shade from a grid of subtle color variations |
 ...and more.
-
----
-
-_Thanks for stopping by!_
